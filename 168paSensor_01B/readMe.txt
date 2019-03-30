@@ -1,0 +1,1 @@
+U12 SCH power pin eeror fixed.
